@@ -1,0 +1,51 @@
+# 🧭 Guias CRISP-DM para projetos de Ciência de Dados
+
+Guias passo a passo e estruturas prontas para projetos de Ciência de Dados, no roteiro **CRISP-DM** usado em todos os projetos do meu portfólio. Há um par de arquivos para cada tipo de problema:
+
+- **Guia:** explica cada etapa em linguagem simples, com exemplos numéricos, figuras, checklists, erros comuns e um glossário. Serve para tirar dúvidas.
+- **Estrutura:** só os títulos do roteiro, com as adaptações do tipo de problema. Serve para começar um projeto novo.
+
+| Tipo de problema | Guia | Estrutura | Exemplos no portfólio |
+|---|---|---|---|
+| 🎯 Classificação | [Guia_Classificacao](Guia_Classificacao.ipynb) | [Estrutura_Classificacao](Estrutura_Classificacao.ipynb) | Sentimento, Fraudes, Rotatividade |
+| 📈 Regressão (incluindo a temporal) | [Guia_Regressao](Guia_Regressao.ipynb) | [Estrutura_Regressao](Estrutura_Regressao.ipynb) | Eleição 2020, Aluguel, Rossmann |
+| 🧩 Clusterização | [Guia_Clusterizacao](Guia_Clusterizacao.ipynb) | [Estrutura_Clusterizacao](Estrutura_Clusterizacao.ipynb) | Segmentação de clientes, Segmentação do cartão |
+| 📚 Recomendação | [Guia_Recomendacao](Guia_Recomendacao.ipynb) | [Estrutura_Recomendacao](Estrutura_Recomendacao.ipynb) | Sistema de Recomendação de Livros |
+| 📊 Análise sem modelo | [Guia_Sem_modelo](Guia_Sem_modelo.ipynb) | [Estrutura_Sem_modelo](Estrutura_Sem_modelo.ipynb) | Carteira de Ações, Risco das Ações |
+
+## 🗺️ O roteiro
+
+```
+FASE 01: ENTENDIMENTO DO NEGÓCIO   contexto, objetivo, formato da solução, planejamento
+FASE 02: PREPARAÇÃO DOS DADOS      coleta, limpeza, vazamento, EDA com testes estatísticos,
+                                   feature engineering, correlações
+FASE 03: MODELAGEM DOS DADOS       transformação, separação, algoritmos, validação cruzada,
+                                   comparação, ajuste fino, limiar, teste anti-vazamento
+FASE 04: AVALIAÇÃO                 desempenho, previsto x observado, variáveis importantes
+FASE 05: IMPLANTAÇÃO               modelo salvo, simulação
+Resposta à pergunta de negócio, insights, limites, próximos passos e app Streamlit
+```
+
+## 🧠 O que os guias explicam
+
+- **Estatística descritiva:** média, mediana, moda, desvio, quartis, assimetria, curtose, como ler um histograma e um boxplot.
+- **Outliers** pela regra do IQR.
+- **Testes estatísticos:** H0, p-valor, erros tipo I e II, tamanho do efeito e qual teste usar (qui-quadrado, Mann-Whitney, Kruskal-Wallis, Spearman, Wilcoxon, binomial, odds ratio).
+- **Vazamento de dados** e Pipeline.
+- **Escalas e encoders.**
+- **Separação treino/validação/teste e validação cruzada.**
+- **Métricas:**
+  - classificação: matriz de confusão, precisão, recall, F1, ROC e PR, limiar, curva de custo, calibração;
+  - regressão: MAE, MSE, RMSE, MAPE, MPE, R², faixa de erro;
+  - clusterização: silhouette, cotovelo, ARI, margem de atribuição;
+  - recomendação: acerto@N, NDCG, cobertura.
+
+As figuras ficam em [`imagens/`](imagens/), em SVG.
+
+## 📁 Versões anteriores
+
+`Modelo_1.ipynb` (guia com notas, 2023) e `Modelo_2.ipynb` (estrutura, 2023) são as versões originais, mantidas para mostrar a evolução. Os guias novos corrigem algumas explicações delas: assimetria, nomes das escalas, Boruta, p-valor e busca de hiperparâmetros.
+
+---
+
+Autor: **Rafael R. Silva** · [github.com/RafaelSilva89](https://github.com/RafaelSilva89)

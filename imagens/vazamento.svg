@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="684pt" height="285.301969pt" viewBox="0 0 684 285.301969" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T14:31:03.508913</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 285.301969 
+L 684 285.301969 
+L 684 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 40.68 127.637809 
+L 152.28 127.637809 
+Q 155.07 127.637809 155.07 125.087569 
+L 155.07 84.283729 
+Q 155.07 81.733489 152.28 81.733489 
+L 40.68 81.733489 
+Q 37.89 81.733489 37.89 84.283729 
+L 37.89 125.087569 
+Q 37.89 127.637809 40.68 127.637809 
+z
+" clip-path="url(#pd2c506417d)" style="fill: #264653"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 196.92 127.637809 
+L 308.52 127.637809 
+Q 311.31 127.637809 311.31 125.087569 
+L 311.31 84.283729 
+Q 311.31 81.733489 308.52 81.733489 
+L 196.92 81.733489 
+Q 194.13 81.733489 194.13 84.283729 
+L 194.13 125.087569 
+Q 194.13 127.637809 196.92 127.637809 
+z
+" clip-path="url(#pd2c506417d)" style="fill: #f4a261"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 251.151221 126.396899 
+Q 182.969598 73.078404 116.725538 124.882323 
+" clip-path="url(#pd2c506417d)" style="fill: none; stroke: #e76f51; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 123.738279 123.460544 
+L 116.725538 124.882323 
+L 119.795759 118.419062 
+z
+" clip-path="url(#pd2c506417d)" style="fill: #e76f51; stroke: #e76f51; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 375.48 127.637809 
+L 487.08 127.637809 
+Q 489.87 127.637809 489.87 125.087569 
+L 489.87 84.283729 
+Q 489.87 81.733489 487.08 81.733489 
+L 375.48 81.733489 
+Q 372.69 81.733489 372.69 84.283729 
+L 372.69 125.087569 
+Q 372.69 127.637809 375.48 127.637809 
+z
+" clip-path="url(#pd2c506417d)" style="fill: #264653"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 531.72 127.637809 
+L 643.32 127.637809 
+Q 646.11 127.637809 646.11 125.087569 
+L 646.11 84.283729 
+Q 646.11 81.733489 643.32 81.733489 
+L 531.72 81.733489 
+Q 528.93 81.733489 528.93 84.283729 
+L 528.93 125.087569 
+Q 528.93 127.637809 531.72 127.637809 
+z
+" clip-path="url(#pd2c506417d)" style="fill: #f4a261"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 509.4 140.389009 
+L 509.4 68.982289 
+" clip-path="url(#pd2c506417d)" style="fill: none; stroke: #2a9d8f; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #e76f51" x="174.6" y="43.479889" transform="rotate(-0 174.6 43.479889)">ERRADO: com vazamento</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2a9d8f" x="509.4" y="43.479889" transform="rotate(-0 509.4 43.479889)">CERTO: sem vazamento</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="96.48" y="107.283305" transform="rotate(-0 96.48 107.283305)">TREINO</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="252.72" y="107.283305" transform="rotate(-0 252.72 107.283305)">TESTE</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #e76f51" transform="translate(96.808359 196.736323)">informação do teste (ou do futuro)</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #e76f51" transform="translate(139.486641 207.538784)">entra no treino:</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #e76f51" transform="translate(95.071641 218.701245)">• escala/média calculada com tudo</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #e76f51" transform="translate(108.929531 229.863705)">• coluna que é o próprio alvo</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #e76f51" transform="translate(113.944922 240.666166)">• duplicatas nos dois lados</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="431.28" y="107.283305" transform="rotate(-0 431.28 107.283305)">TREINO</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="587.52" y="107.283305" transform="rotate(-0 587.52 107.283305)">TESTE</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #2a9d8f" transform="translate(461.297812 196.583041)">o teste fica trancado:</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #2a9d8f" transform="translate(438.805547 207.745502)">• Pipeline ajustado só no treino</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #2a9d8f" transform="translate(454.883906 218.907963)">• só colunas disponíveis</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #2a9d8f" transform="translate(450.225703 229.863705)">  no momento da previsão</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #2a9d8f" transform="translate(443.460938 241.026166)">• teste aberto uma única vez</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="7.2" y="17.077969" transform="rotate(-0 7.2 17.077969)">Vazamento de dados: o modelo "cola" na prova</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd2c506417d">
+   <rect x="7.2" y="23.077969" width="669.6" height="255.024"/>
+  </clipPath>
+ </defs>
+</svg>

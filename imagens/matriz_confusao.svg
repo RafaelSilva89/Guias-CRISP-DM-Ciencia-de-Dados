@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="604.132734pt" height="284.75775pt" viewBox="0 0 604.132734 284.75775" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T14:31:13.831073</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 284.75775 
+L 604.132734 284.75775 
+L 604.132734 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 47.302734 164.07207 
+L 175.642734 164.07207 
+Q 178.432734 164.07207 178.432734 161.52183 
+L 178.432734 87.56487 
+Q 178.432734 85.01463 175.642734 85.01463 
+L 47.302734 85.01463 
+Q 44.512734 85.01463 44.512734 87.56487 
+L 44.512734 161.52183 
+Q 44.512734 164.07207 47.302734 164.07207 
+z
+" clip-path="url(#p70337d8fd8)" style="fill: #2a9d8f"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 181.222734 164.07207 
+L 309.562734 164.07207 
+Q 312.352734 164.07207 312.352734 161.52183 
+L 312.352734 87.56487 
+Q 312.352734 85.01463 309.562734 85.01463 
+L 181.222734 85.01463 
+Q 178.432734 85.01463 178.432734 87.56487 
+L 178.432734 161.52183 
+Q 178.432734 164.07207 181.222734 164.07207 
+z
+" clip-path="url(#p70337d8fd8)" style="fill: #e76f51"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 47.302734 245.67975 
+L 175.642734 245.67975 
+Q 178.432734 245.67975 178.432734 243.12951 
+L 178.432734 169.17255 
+Q 178.432734 166.62231 175.642734 166.62231 
+L 47.302734 166.62231 
+Q 44.512734 166.62231 44.512734 169.17255 
+L 44.512734 243.12951 
+Q 44.512734 245.67975 47.302734 245.67975 
+z
+" clip-path="url(#p70337d8fd8)" style="fill: #f4a261"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 181.222734 245.67975 
+L 309.562734 245.67975 
+Q 312.352734 245.67975 312.352734 243.12951 
+L 312.352734 169.17255 
+Q 312.352734 166.62231 309.562734 166.62231 
+L 181.222734 166.62231 
+Q 178.432734 166.62231 178.432734 169.17255 
+L 178.432734 243.12951 
+Q 178.432734 245.67975 181.222734 245.67975 
+z
+" clip-path="url(#p70337d8fd8)" style="fill: #264653"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(91.525781 116.07878)">VP = 80</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(65.250703 126.881241)">fraude e o modelo</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(80.04375 137.683702)">disse fraude</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(225.386719 116.07878)">FN = 20</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(190.109531 126.881241)">fraude, mas o modelo</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(212.871094 137.683702)">disse normal</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(91.934297 197.68646)">FP = 40</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(55.096875 208.488921)">normal, mas o modelo</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(80.04375 219.291382)">disse fraude</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(221.847187 197.68646)">VN = 860</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(198.078047 208.488921)">normal e o modelo</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(212.871094 219.291382)">disse normal</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="111.472734" y="68.43807" transform="rotate(-0 111.472734 68.43807)">previu: fraude</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="245.392734" y="68.43807" transform="rotate(-0 245.392734 68.43807)">previu: normal</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(13.332656 121.480362)">real:</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(8.292656 132.282823)">fraude</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(13.332656 203.088042)">real:</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(7.2 213.890503)">normal</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'" transform="translate(340.252734 67.236432)">Precisão = VP ÷ (VP + FP) = 80/120 = 67%</text>
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'" transform="translate(340.252734 78.63903)">"dos alertas, quantos eram fraude"</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'" transform="translate(340.252734 120.791472)">Recall = VP ÷ (VP + FN) = 80/100 = 80%</text>
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'" transform="translate(340.252734 132.19407)">"das fraudes, quantas o modelo achou"</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="340.252734" y="185.74911" transform="rotate(-0 340.252734 185.74911)">F1 = média harmônica = 73%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; fill: #e76f51" transform="translate(340.252734 219.870832)">Acurácia = 94%... mas "dizer sempre normal"</text>
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; fill: #e76f51" transform="translate(340.252734 231.65343)">já daria 90%!</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="11.032734" y="16.53375" transform="rotate(-0 11.032734 16.53375)">Matriz de confusão (1.000 transações, 100 fraudes)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p70337d8fd8">
+   <rect x="11.032734" y="22.53375" width="585.9" height="255.024"/>
+  </clipPath>
+ </defs>
+</svg>
