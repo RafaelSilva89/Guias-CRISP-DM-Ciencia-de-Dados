@@ -20,9 +20,10 @@ FASE 01: ENTENDIMENTO DO NEGÓCIO   contexto, objetivo, formato da solução, pl
 FASE 02: PREPARAÇÃO DOS DADOS      coleta, limpeza, vazamento, EDA com testes estatísticos,
                                    feature engineering, correlações
 FASE 03: MODELAGEM DOS DADOS       transformação, separação, algoritmos, validação cruzada,
-                                   comparação, ajuste fino, limiar, teste anti-vazamento
-FASE 04: AVALIAÇÃO                 desempenho, previsto x observado, variáveis importantes
-FASE 05: IMPLANTAÇÃO               modelo salvo, simulação
+                                   comparação, ajuste fino (Grid, Random e Bayesiana),
+                                   limiar, teste anti-vazamento
+FASE 04: AVALIAÇÃO                 desempenho, previsto x observado, variáveis importantes (SHAP)
+FASE 05: IMPLANTAÇÃO               modelo salvo, simulação, monitoramento
 Resposta à pergunta de negócio, insights, limites, próximos passos e app Streamlit
 ```
 
@@ -33,12 +34,16 @@ Resposta à pergunta de negócio, insights, limites, próximos passos e app Stre
 - **Testes estatísticos:** H0, p-valor, erros tipo I e II, tamanho do efeito e qual teste usar (qui-quadrado, Mann-Whitney, Kruskal-Wallis, Spearman, Wilcoxon, binomial, odds ratio).
 - **Vazamento de dados** e Pipeline.
 - **Escalas e encoders.**
-- **Separação treino/validação/teste e validação cruzada.**
+- **Separação treino/validação/teste e validação cruzada** (K-Fold, Stratified K-Fold, Leave-One-Out, Repeated K-Fold) e **backtest walk-forward** (janela crescente e fixa).
+- **Ensembles:** bagging, boosting e stacking.
+- **Ajuste fino de hiperparâmetros:** Grid Search, Random Search e otimização Bayesiana (Optuna, pruning, early stopping), hiperparâmetros por algoritmo, boas práticas e qual método usar.
 - **Métricas:**
   - classificação: matriz de confusão, precisão, recall, F1, ROC e PR, limiar, curva de custo, calibração;
   - regressão: MAE, MSE, RMSE, MAPE, MPE, R², faixa de erro;
   - clusterização: silhouette, cotovelo, ARI, margem de atribuição;
   - recomendação: acerto@N, NDCG, cobertura.
+- **Interpretabilidade com SHAP** (classificação e regressão; na clusterização, por um classificador substituto): valores de Shapley e suas propriedades, explainers, force plot, waterfall, beeswarm, dependence, SHAP × LIME, comunicação por público e auditoria de viés.
+- **Monitoramento em produção:** data drift e concept drift, PSI, teste K-S, SLA, estratégias de retreino, teste A/B, shadow mode, canary e o ciclo de MLOps (classificação e regressão); tamanho e estabilidade dos segmentos com reetiquetagem (clusterização); métricas online, cobertura, cold start e ciclo de realimentação (recomendação); acompanhamento dos indicadores com janela móvel e mudança de regime (análise sem modelo).
 
 As figuras ficam em [`imagens/`](imagens/), em SVG.
 
