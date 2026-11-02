@@ -12,6 +12,7 @@ Guias passo a passo e estruturas prontas para projetos de Ciência de Dados, no 
 | 🧩 Clusterização | [Guia_Clusterizacao](Guia_Clusterizacao.ipynb) | [Estrutura_Clusterizacao](Estrutura_Clusterizacao.ipynb) | Segmentação de clientes, Segmentação do cartão |
 | 📚 Recomendação | [Guia_Recomendacao](Guia_Recomendacao.ipynb) | [Estrutura_Recomendacao](Estrutura_Recomendacao.ipynb) | Sistema de Recomendação de Livros |
 | 📊 Análise sem modelo | [Guia_Sem_modelo](Guia_Sem_modelo.ipynb) | [Estrutura_Sem_modelo](Estrutura_Sem_modelo.ipynb) | Carteira de Ações, Risco das Ações |
+| 🧪 Teste A/B (A/B, A/B/n, Bayesiano e MAB) | [Guia_Teste_AB](Guia_Teste_AB.ipynb) | [Estrutura_Teste_AB](Estrutura_Teste_AB.ipynb) | Segmentação de clientes (Teste A-B da campanha) |
 
 ## 🗺️ O roteiro
 
@@ -45,7 +46,9 @@ Resposta à pergunta de negócio, insights, limites, próximos passos e app Stre
 - **Interpretabilidade com SHAP** (classificação e regressão; na clusterização, por um classificador substituto): valores de Shapley e suas propriedades, explainers, force plot, waterfall, beeswarm, dependence, SHAP × LIME, comunicação por público e auditoria de viés.
 - **Monitoramento em produção:** data drift e concept drift, PSI, teste K-S, SLA, estratégias de retreino, teste A/B, shadow mode, canary e o ciclo de MLOps (classificação e regressão); tamanho e estabilidade dos segmentos com reetiquetagem (clusterização); métricas online, cobertura, cold start e ciclo de realimentação (recomendação); acompanhamento dos indicadores com janela móvel e mudança de regime (análise sem modelo).
 
-As figuras ficam em [`imagens/`](imagens/), em SVG.
+- **Teste A/B** (guia próprio, com os 5 passos do curso de Teste A/B): hipóteses uni e bicaudais, nível de confiança, α, poder e erros tipo I e II, tamanho do efeito (d, Glass, Hedges, h e w de Cohen), tamanho da amostra, sorteio e SRM, o mapa de escolha do teste estatístico (Z, qui-quadrado, Fisher, t, Welch, Mann-Whitney, Wilcoxon, ANOVA, Kruskal-Wallis) com 10 exercícios, erro α acumulado e correções (Bonferroni, Šidák, FDR, Tukey, Dunn), o perigo de "espiar" o p-valor, Bayesiano (Beta, P(B > A), perda esperada e regra de parada), Multi-Armed Bandit (Aleatório, Onisciente, Guloso, ε-Guloso, UCB e Thompson), **como escolher o método ideal** e o teste em produção (bandit com grupo de controle).
+
+As figuras ficam em [`imagens/`](imagens/), em SVG (as do Teste A/B começam com `ab_`).
 
 ## 📁 Versões anteriores
 

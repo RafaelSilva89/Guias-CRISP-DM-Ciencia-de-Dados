@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="666.878856pt" height="240.570047pt" viewBox="0 0 666.878856 240.570047" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 240.570047 
+L 666.878856 240.570047 
+L 666.878856 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.086154 132.822047 
+L 82.744615 132.822047 
+Q 85.105385 132.822047 85.105385 130.428047 
+L 85.105385 68.184047 
+Q 85.105385 65.790047 82.744615 65.790047 
+L 26.086154 65.790047 
+Q 23.725385 65.790047 23.725385 68.184047 
+L 23.725385 130.428047 
+Q 23.725385 132.822047 26.086154 132.822047 
+z
+" clip-path="url(#pab2b998eb8)" style="fill: #264653"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 106.352308 132.822047 
+L 163.010769 132.822047 
+Q 165.371538 132.822047 165.371538 130.428047 
+L 165.371538 68.184047 
+Q 165.371538 65.790047 163.010769 65.790047 
+L 106.352308 65.790047 
+Q 103.991538 65.790047 103.991538 68.184047 
+L 103.991538 130.428047 
+Q 103.991538 132.822047 106.352308 132.822047 
+z
+" clip-path="url(#pab2b998eb8)" style="fill: #2a9d8f"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 186.618462 132.822047 
+L 243.276923 132.822047 
+Q 245.637692 132.822047 245.637692 130.428047 
+L 245.637692 68.184047 
+Q 245.637692 65.790047 243.276923 65.790047 
+L 186.618462 65.790047 
+Q 184.257692 65.790047 184.257692 68.184047 
+L 184.257692 130.428047 
+Q 184.257692 132.822047 186.618462 132.822047 
+z
+" clip-path="url(#pab2b998eb8)" style="fill: #f4a261"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 281.049231 96.912047 
+L 488.796923 96.912047 
+Q 491.157692 96.912047 491.157692 94.518047 
+L 491.157692 51.426047 
+Q 491.157692 49.032047 488.796923 49.032047 
+L 281.049231 49.032047 
+Q 278.688462 49.032047 278.688462 51.426047 
+L 278.688462 94.518047 
+Q 278.688462 96.912047 281.049231 96.912047 
+z
+" clip-path="url(#pab2b998eb8)" style="fill: #eef3f5"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 281.049231 163.944047 
+L 488.796923 163.944047 
+Q 491.157692 163.944047 491.157692 161.550047 
+L 491.157692 118.458047 
+Q 491.157692 116.064047 488.796923 116.064047 
+L 281.049231 116.064047 
+Q 278.688462 116.064047 278.688462 118.458047 
+L 278.688462 161.550047 
+Q 278.688462 163.944047 281.049231 163.944047 
+z
+" clip-path="url(#pab2b998eb8)" style="fill: #eef3f5"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 257.441538 99.306047 
+Q 268.065 89.730047 277.359743 81.351756 
+" clip-path="url(#pab2b998eb8)" style="fill: none; stroke: #9e9e9e; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 270.894465 83.140663 
+L 277.359743 81.351756 
+L 274.911703 87.597322 
+z
+" clip-path="url(#pab2b998eb8)" style="fill: #9e9e9e; stroke: #9e9e9e; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 257.441538 99.306047 
+Q 268.065 116.064047 277.730684 131.311199 
+" clip-path="url(#pab2b998eb8)" style="fill: none; stroke: #9e9e9e; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 277.05197 124.637418 
+L 277.730684 131.311199 
+L 271.984431 127.849902 
+z
+" clip-path="url(#pab2b998eb8)" style="fill: #9e9e9e; stroke: #9e9e9e; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(35.433822 95.222531)">braço</text>
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(49.771947 109.624875)">A</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #264653" x="54.415385" y="149.580047" transform="rotate(-0 54.415385 149.580047)">?%</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(115.699976 95.222531)">braço</text>
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(130.108413 109.624875)">B</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #264653" x="134.681538" y="149.580047" transform="rotate(-0 134.681538 149.580047)">?%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(195.96613 95.222531)">braço</text>
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(210.544255 109.624875)">C</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #264653" x="214.947692" y="149.580047" transform="rotate(-0 214.947692 149.580047)">?%</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #264653" transform="translate(48.769507 31.991742)">cada braço tem uma chance de pagar</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #264653" transform="translate(73.109585 44.244047)">que o agente NÃO conhece</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; fill: #264653" transform="translate(356.64796 69.738521)">EXPLORAR</text>
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; fill: #264653" transform="translate(283.218897 81.141119)">testar braços para descobrir o melhor</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; fill: #264653" transform="translate(351.30421 136.770521)">APROVEITAR</text>
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; fill: #264653" transform="translate(299.61085 148.173119)">usar o braço que parece melhor</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #e76f51" transform="translate(526.569231 69.977125)">explorar demais:</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #e76f51" transform="translate(526.569231 80.539531)">perde tempo ganhando pouco</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #e76f51" transform="translate(526.569231 137.009125)">aproveitar cedo demais:</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #e76f51" transform="translate(526.569231 147.571531)">pode ficar com o errado</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #264653" x="314.1" y="204.642047" transform="rotate(-0 314.1 204.642047)">A política do agente (Aleatório, Guloso, ε-Guloso, Thompson…) é a regra que equilibra os dois.</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="7.2" y="16.698047" transform="rotate(-0 7.2 16.698047)">O dilema do Multi-Armed Bandit: explorar × aproveitar (Aulas 36 e 39)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pab2b998eb8">
+   <rect x="7.2" y="22.698047" width="613.8" height="210.672"/>
+  </clipPath>
+ </defs>
+</svg>
